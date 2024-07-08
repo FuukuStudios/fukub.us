@@ -1,0 +1,13 @@
+{
+	"short_name": "F♡ckubus",
+	"name": "F♡ckubus",
+	"display": "standalone",
+	"background_color": "#030000",
+	"theme_color": "#2e000b",
+	"description": "Crafted by Thyra, F♡ckubus is an indie, satirical action RPG where you navigate the treacherous realms of the 9 circles of hell while encountering bitchy succubi who hate your guts!",
+	"icons": [{
+		"src": "icon.png",
+		"type": "image/png",
+		"sizes": "512x512"
+	}]
+}

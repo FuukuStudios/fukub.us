@@ -1,0 +1,26 @@
+{
+  "name": "fukub.us",
+  "version": "1.2.0",
+  "description": "Crafted by Thyra, F♡ckubus is an indie, satirical action RPG where you navigate the treacherous realms of the 9 circles of hell while encountering bitchy succubi who hate your guts!",
+  "private": true,
+  "keywords": [
+    "fuckubus",
+    "fukubus",
+    "fuukubus"
+  ],
+  "license": "UNLICENSED",
+  "author": "Thyra",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.prod.js"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4",
+    "webpack-merge": "^5.10.0"
+  }
+}
