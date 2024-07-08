@@ -83,5 +83,5 @@ body {
 	position: fixed;
 	z-index: -20;
 	background: url("/img/LustBG-blur.jpg") no-repeat fixed center;
-	background-size: auto 100%;
+	background-size: cover;
 }
